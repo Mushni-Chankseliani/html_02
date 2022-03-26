@@ -41,3 +41,11 @@
     color: brown;
     font-size: 30px;
 }
+
+.roboto-font {
+    font-family: 'Roboto', sans-serif;
+}
+
+.font-example {
+    font-family: "ALK Life", sans-serif;
+}
